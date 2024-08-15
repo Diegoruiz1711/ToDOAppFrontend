@@ -1,0 +1,43 @@
+.toolBar {
+    justify-self: flex-end;
+    border: 1px solid #818181;
+    width: 99.9%;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #d6d4d4;
+}
+
+.start {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    border: 2px solid #c1bdbd;
+    width: 80px;
+    font-size: 16px;
+    background-color: #d6d4d4;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    border: 2px solid #c1bdbd;
+    width: 100px;
+    font-size: 16px;
+    background-color: #eae6e6;
+}
+
+.img {
+    width: 15px;
+    height: 15px;
+    padding-right: 2px;
+}
+
+.imgV {
+    width: 30px;
+    height: 30px;
+}
